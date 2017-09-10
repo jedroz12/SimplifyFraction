@@ -1,0 +1,6 @@
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\bin\Debug\SimplifyFraction.exe.config
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\bin\Debug\SimplifyFraction.exe
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\bin\Debug\SimplifyFraction.pdb
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\obj\Debug\SimplifyFraction.csprojResolveAssemblyReference.cache
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\obj\Debug\SimplifyFraction.exe
+D:\Long Term Storage\Projects\Visual Studio 2015 Projects\SimplifyFraction\SimplifyFraction\obj\Debug\SimplifyFraction.pdb
